@@ -23,4 +23,6 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
+    <plugin name="org.apache.cordova.console" spec="^0.2.13" />
+    <plugin name="org.apache.cordova.device" spec="^0.3.0" />
 </widget>
